@@ -1,6 +1,6 @@
 # Phase 2: Narowing down the Application
 
-## Task Finalization##
+## Task Finalization
 
 The list of design that I intent to implement in my application or provide ease to the society by applying HCI concepts to that task are:
 - Managing class
