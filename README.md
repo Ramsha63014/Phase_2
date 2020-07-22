@@ -67,9 +67,11 @@ Major targets are Teachers and Students.
 
 - Aqdas is trying to facilitate more productive discussion in her class. Students are required to annotate electronic copies of the weekly assigned readings. The prototype collects these, and merges them, enabling Aqdas to project and point to different versions on the 3 large displays in the teaching room, and start discussing why different students had highlighted or commented on different parts of the research paper. The next day Aqdas meets with the research team to review what happened when she tried out the prototype in class. They review the use log data, trying out different visualizations to help in understanding what worked well, what was awkward to use, or performed poorly, and why. Next, they work on how they can improve the design before the next class. 
 
-- Hassaan is an active student in his class and seems to be a hard worker. After failing the first major task in his class. He talks to his teacher about how he can improve. He still fails the second major task even after he had tried to complete the assignment properly. His teacher realize that Hassaan just doesn't seem to have the skills in Computer. 
-
 - Lisa is trying her best to educate her students. But due to her low experience in IT she couldn’t educate her student well. She’s trying her best to visualize to help in understanding how to use or what worked well. 
+
+- 
+
+- Hassaan is an active student in his class and seems to be a hard worker. After failing the first major task in his class. He talks to his teacher about how he can improve. He still fails the second major task even after he had tried to complete the assignment properly. His teacher realize that Hassaan just doesn't seem to have the skills in Computer. 
 
 
 ## Storyboards:
