@@ -1,6 +1,4 @@
-# Phase_2
-
-#Phase 2: Narowing down the Application#
+# Phase 2: Narowing down the Application
 
 ##Task Finalization##
 
