@@ -32,10 +32,11 @@ Major targets are Teachers and Students.
 
 1) List down at-least 10 design alternatives.
 
-- Persona's: 
+## Persona's: 
 
 ### Teacher’s Persona: 
 
+# 1.
 Aqdas is 33 years old, she’s been teaching since her 24th birthday, having 5 years of experience. Uses Microsoft Office, Internet, Email and other Resources. Works on phone apps and tablet while collaborating with other teachers. Her daily task is to carry out lessons with 35 students per class session with 5 sessions a day and tutor students for 2 hours after school is finished. She collaborates with staff and teachers and plans out class curriculum activities and goals to meet test and year-out goals. She evaluates student grades and progress to improve and perform goals. 
 
  
