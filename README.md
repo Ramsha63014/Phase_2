@@ -69,5 +69,7 @@ Major targets are Teachers and Students.
 
 ## Scenarios:
 
+- Aqdas is trying to facilitate more productive discussion in her class. Students are required to annotate electronic copies of the weekly assigned readings. The prototype collects these, and merges them, enabling Aqdas to project and point to different versions on the 3 large displays in the teaching room, and start discussing why different students had highlighted or commented on different parts of the research paper. The next day Aqdas meets with the research team to review what happened when she tried out the prototype in class. They review the use log data, trying out different visualizations to help in understanding what worked well, what was awkward to use, or performed poorly, and why. Next, they work on how they can improve the design before the next class. 
+
 
 ## Storyboards:
