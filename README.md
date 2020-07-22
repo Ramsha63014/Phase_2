@@ -69,6 +69,8 @@ Major targets are Teachers and Students.
 
 - Hassaan is an active student in his class and seems to be a hard worker. After failing the first major task in his class. He talks to his teacher about how he can improve. He still fails the second major task even after he had tried to complete the assignment properly. His teacher realize that Hassaan just doesn't seem to have the skills in Computer. 
 
+- Lisa is trying her best to educate her students. But due to her low experience in IT she couldn’t educate her student well. She’s trying her best to visualize to help in understanding how to use or what worked well. 
+
 
 ## Storyboards:
 
