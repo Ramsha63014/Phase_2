@@ -69,7 +69,7 @@ Major targets are Teachers and Students.
 
 - Lisa is trying her best to educate her students. But due to her low experience in IT she couldn’t educate her student well. She’s trying her best to visualize to help in understanding how to use or what worked well. 
 
-- 
+- Midterms are on their way and Usman has repeatedly asked if he can have an extension on each of the tasks. Usman sends his teacher an email to once again ask for more time. None of his work has been substandard but he doesn't stick by the timelines set for all students. Even when given an extension, he barely turns in his work by those deadlines. It is obvious that Usman has some issues in completing and submitting his task. Either he does not understand the task, and he also has a difficulty in submitting the task. 
 
 - Hassaan is an active student in his class and seems to be a hard worker. After failing the first major task in his class. He talks to his teacher about how he can improve. He still fails the second major task even after he had tried to complete the assignment properly. His teacher realize that Hassaan just doesn't seem to have the skills in Computer. 
 
