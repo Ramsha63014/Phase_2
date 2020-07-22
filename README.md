@@ -56,10 +56,6 @@ Major targets are Teachers and Students.
 
  
 
-- Anna is 20 years old. She studies Chemistry. She’s trying to live healthy life. She loves hiking and travelling. Anna never leaves her home without her smart phone as she wants to stay in touch with her friends. She doesn't have a bad habit. Her goal is to keep fit, live a healthy life, visit all countries in the world, makes friends and become a scientist. 
-
- 
-
 - Omaima is a student. She is undergraduate with the degree of BSCS. She is a talented and hardworking girl and also favorite among her teachers and contains good grades. She is passionate about her profession and working hard to achieve her goals. She is the most attentive student in class and submits her quiz and assignment on time. She has good sense of humor. She is ready to help everyone and shows her concern for class work. 
 
  
