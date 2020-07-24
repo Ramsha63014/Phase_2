@@ -32,10 +32,10 @@ Major targets are Teachers and Students.
 
 1) List down at-least 10 design alternatives.
 ### Design Alternative 1:
-
+ 
 
 ### Design Alternative 2:
-
+In this design alternative, the complete focus is on the interface in which user is going to perform a task performing in which user can create a new task. And there will be some options in which user can delete, save or update a task.
 
 ### Design Alternative 3:
 
