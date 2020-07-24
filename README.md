@@ -31,16 +31,35 @@ Major targets are Teachers and Students.
 ## Design Alternatives
 
 1) List down at-least 10 design alternatives.
-- Start Lecture
-- Create assignment/task
-- Quiz
-- Upload lecture
-- Ask queries
-- Attend class
-- Submit assignment/task
-- View lecture
-- Take quiz
-- Feedback
+### Design Alternative 1:
+
+
+### Design Alternative 2:
+
+
+### Design Alternative 3:
+
+
+### Design Alternative 4:
+
+
+### Design Alternative 5:
+
+
+### Design Alternative 6:
+
+
+### Design Alternative 7:
+
+
+### Design Alternative 8:
+
+
+### Design Alternative 9:
+
+
+### Design Alternative 10:
+
 
 
 ## Persona's: 
