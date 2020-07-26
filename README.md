@@ -32,13 +32,14 @@ Major targets are Teachers and Students.
 
 1) List down at-least 10 design alternatives.
 ### Design Alternative 1:
- 
+This design alternative will provide user with an interface in which user can show their screen to other users by just clicking a button. It will also show some options where users can chat easily or show some of their reactions. There will be an option with which user can talk to each other, or can ask queries.
+
 
 ### Design Alternative 2:
-In this design alternative, the complete focus is on the interface in which user is going to perform a task performing in which user can create a new task. And there will be some options in which user can delete, save or update a task.
+In this design alternative, the complete focus is on the interface in which user is going to perform a task performing in which user can create a new task by just clicking a "+" (plus) button. And there will be some options in which user can delete, save or update a task. Beside this, user can limit time and date. There is also an option where user can set some of the points.
 
 ### Design Alternative 3:
-
+This deign alternative will provide user an interface where they can set a title or give instruction such as, user can specify the question, the correct answer, number of points for each question, and time limit to solve.
 
 ### Design Alternative 4:
 
