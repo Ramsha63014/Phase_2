@@ -111,8 +111,5 @@ This deign alternative will provide user an interface where they can set a title
 Develop low fidelity prototypes for each of the 2 designs selected above. 
 
 
-## Evaluation
-Get the prototypes evaluated quickly by someone in your family or circle.  
-
 
 
