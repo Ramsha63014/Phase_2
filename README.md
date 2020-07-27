@@ -46,26 +46,20 @@ In this design, the focus is that user can handle an interface easily. User can 
 
 
 ### Design Alternative 4:
-
-
-### Design Alternative 5:
+This design alternative provides user an interface that will show them the uploaded lectures at the bootom of the interface. On the top of the interface, it will provide an option to upload a lecture. It will also mention the date corresponding to the each lecture. User can also delete a lecture.
 
 
 ## Manage class
 
-### Design Alternative 6:
+### Design Alternative 5:
+In this design we have simply focuses on scheduling interface. At the beginning, user can see todays date and the recent schedule of the day and user can also see a pointer which will point meeting time as well as which time meeting has been past. There will also be a icon for calendar to show. Where user will be able to see other schedule by clicking on the specific date. The date will be bold where he has a meeting schedule. To move calendar dates there will arrow left and right. There will be a plus(+) sign to add a task. User have to first click on the date and then Plus(+) sign to add the new meeting where another page will be appear where user can set time and gives detail of meeting. As well as user can update the meeting by clicking on the meeting and he can also delete it.
 
+
+### Design Alternative 6:
+In this design we have focus on the easy to handle interface by user. User can see today’s date and the calendar in weekly base, and at calendar todays date will be highlighted with another color. And below that user will be able to see his schedule for today date that he has already added and schedule according to recent time will be highlighted by another color and it will be bold. Furthermore, he will also be able to see other schedule by clicking on the specific date. There will be star according to the number of meeting average that tells that he has a busy day or normal or what it will be deal with 5 stars below the specific date, so, he will be able to see at what date he has a meeting and what date he has a busy schedule. To move calendar dates there will arrow left and right. There will be a plus (+) sign to add a meeting. User have to first click on the date and then Plus (+) sign to add the new schedule where another page will be appear where user can set time and gives detail of meeting and open the notify option and set time to notify at what time like 5 min before 10 min etc. As well as user can update the schedule by clicking on the icon edit to the schedule and he can also delete it. By clicking on the schedule he will be able to see the full detail of that meeting.
 
 ### Design Alternative 7:
-
-
-### Design Alternative 8:
-
-
-### Design Alternative 9:
-
-
-### Design Alternative 10:
+This design alternative focuses on scheduling an interface. User can see today’s date and the calendar in weekly base, and the picture will be shown at the top right and at the calendar todays date will be highlighted with circle and below it there will be a dot. And below that user will be able to see his schedule for today date that he has already added a meeting. Furthermore, he will also be able to see other schedule by clicking on the specific date. The date will be bold below the specific date, so, he will be able to see at what date he has a meeting. To move on calendar there will icon of calendar. There will be a plus (+) sign to add a meeting. User have to first click on the date and then Plus (+) sign to add the new schedule where another page will appear where user can set time and he can also change the date from there and gives detail of meeting and open the notify option and set time to notify at what time like 5 min before 10 min etc. As well as user can update and delete schedule by clicking on the three dot options where both option will be appear and user has to click to the specify option. By clicking on the schedule he will be able to see the full detail of that meeting.
 
 
 
