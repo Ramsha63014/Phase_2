@@ -108,8 +108,34 @@ This deign alternative will provide user an interface where they can set a title
 ## Storyboards:
 
 ## Prototyping
-Develop low fidelity prototypes for each of the 2 designs selected above. 
 
+![Prototype1](https://github.com/Ramsha63014/Phase_2/blob/master/p1.jpg)
 
+![Prototype2](https://github.com/Ramsha63014/Phase_2/blob/master/p2.jpg)
 
+![Prototype3](https://github.com/Ramsha63014/Phase_2/blob/master/p3.jpg)
+
+![Prototype4](https://github.com/Ramsha63014/Phase_2/blob/master/p4.jpg)
+
+![Prototype5](https://github.com/Ramsha63014/Phase_2/blob/master/p5.jpg)
+
+![Prototype6](https://github.com/Ramsha63014/Phase_2/blob/master/p6.jpg)
+
+![Prototype7](https://github.com/Ramsha63014/Phase_2/blob/master/p7.jpg)
+
+![Prototype8](https://github.com/Ramsha63014/Phase_2/blob/master/p8.jpg)
+
+![Prototype9](https://github.com/Ramsha63014/Phase_2/blob/master/p9.jpg)
+
+![Prototype10](https://github.com/Ramsha63014/Phase_2/blob/master/p10.jpg)
+
+![Prototype11](https://github.com/Ramsha63014/Phase_2/blob/master/p11.jpg)
+
+![Prototype12](https://github.com/Ramsha63014/Phase_2/blob/master/p12.jpg)
+
+![Prototype13](https://github.com/Ramsha63014/Phase_2/blob/master/p13.jpg)
+
+![Prototype14](https://github.com/Ramsha63014/Phase_2/blob/master/p14.jpg)
+
+![Prototype15](https://github.com/Ramsha63014/Phase_2/blob/master/p15.jpg)
 
