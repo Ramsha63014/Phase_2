@@ -3,8 +3,8 @@
 ## Task Finalization
 
 The list of design that I intent to implement in my application or provide ease to the society by applying HCI concepts to that task are:
-- Managing class
-- Activity
+- Manage activites
+- Manage class
 
 
 ## Need Finding
@@ -29,23 +29,29 @@ Major targets are Teachers and Students.
 
 
 ## Design Alternatives
+I have created design by looking on a similar applications and current trends. How they can help user to accomplish their tasks, what more can we add in our design to gain more user attention and providing with friendly environment.
 
-1) List down at-least 10 design alternatives.
+## Manage activities
+
 ### Design Alternative 1:
-This design alternative will provide user with an interface in which user can show their screen to other users by just clicking a button. It will also show some options where users can chat easily or show some of their reactions. There will be an option with which user can talk to each other, or can ask queries.
+In this design alternative, the complete focus is on activites interface. At the beginning, some of the buttons will be presented which will provide some of the interface where user can perfom task by just clicking on a button. The buttons will display different categories like create task, take quiz, upload lecture, manage students, start lecture etc. Where user can categorize their tasks accordingly. When user press a button it will move to another interface. And user’s picture will be shown at the top right. By clicking on a picture, user can take or upload his picture.  
 
 
 ### Design Alternative 2:
-In this design alternative, the complete focus is on the interface in which user is going to perform a task performing in which user can create a new task by just clicking a "+" (plus) button. And there will be some options in which user can delete, save or update a task. Beside this, user can limit time and date. There is also an option where user can set some of the points.
+This design alternate will show the tasks on the screen that needs to be done for that specific day or week. Current page will display the task that needs to be submitted while, the bottom of the screen will show past activities that is tasks that the user had already been submitted. In this past activities column, the tasks that are shown will be marked with successful submission or missing a file. Once the task is completed and submitted by the user it will be marked with green tag that this task is submitted succesfully while on the other the task that user failed to perform will be marked with red indicating the missing file. User can also resubmit a task. 
+
 
 ### Design Alternative 3:
-This deign alternative will provide user an interface where they can set a title or give instruction such as, user can specify the question, the correct answer, number of points for each question, and time limit to solve.
+In this design, the focus is that user can handle an interface easily. User can check the calender whenever he wants. And below that user will be able to see his schedule for recent meetings that he has already been added. Furthermore, there will be colorful dot according to the number of task below the specific meetings, so, he will be able to see at what date he has a meeting. To move calendar dates there will arrow left and right. If user want to add a meeting, he has to first click on the date and then Plus(+) sign to add the new schedule where another page will be appear where user can set time and gives detail of a meeting and open the notify option that will notify the user 30 min before the given timing. User can also update the schedule by clicking on the schedule and he can also delete it.
+
 
 ### Design Alternative 4:
 
 
 ### Design Alternative 5:
 
+
+## Manage class
 
 ### Design Alternative 6:
 
