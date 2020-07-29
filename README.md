@@ -107,6 +107,15 @@ This design alternative focuses on scheduling an interface. User can see todayâ€
 
 ## Storyboards:
 
+![Storyboard1](https://github.com/Ramsha63014/Phase_2/blob/master/sb1.jpg)
+
+![Storyboard2](https://github.com/Ramsha63014/Phase_2/blob/master/sb2.jpg)
+
+![Storyboard3](https://github.com/Ramsha63014/Phase_2/blob/master/sb3.jpg)
+
+![Storyboard4](https://github.com/Ramsha63014/Phase_2/blob/master/sb4.jpg)
+
+
 ## Prototyping
 
 ![Prototype1](https://github.com/Ramsha63014/Phase_2/blob/master/p1.jpg)
