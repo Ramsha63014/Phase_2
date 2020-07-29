@@ -2,7 +2,7 @@
 
 ## Task Finalization
 
-The list of design that I intent to implement in my application or provide ease to the society by applying HCI concepts to that task are:
+As we are moving towards advancements where every thing is advanced. I intent to implement an application or provide ease to the society by applying HCI concepts to that task are:
 - Teacher activites
 - Student activities
 
